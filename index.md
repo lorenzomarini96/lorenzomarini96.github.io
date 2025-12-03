@@ -1,15 +1,9 @@
----
-layout: page
-title: "Home"
----
-
 # Lorenzo Marini
 
 **PhD Candidate in Artificial Intelligence · Medical Physics Resident**  
-University of Pisa · University of Florence
+University of Pisa, University of Florence
 
 📍 Florence, Italy  
-📧 lorenzo.marini1.1996@gmail.com  
 
 [GitHub](https://github.com/lorenzomarini96) · 
 [ResearchGate](https://www.researchgate.net/profile/Lorenzo-Marini-10)
@@ -61,18 +55,18 @@ University of Siena
 
 ---
 
-## Selected Publications
+## Publications
 
+- *Classification of computed tomography scans: a novel approach implementing an enforced random forest algorithm* - 
+- *Development and validation of dataset using commercial TPS and radiochromic films for transit dosimetry with EPIDs* 
 - *Deep learning methods for 2D in-vivo dose reconstruction with EPID detector* — NIM A, 2024  
 - *In-vivo Dose reconstructor with EPID detector by deep learning* — Physica Medica, 2024  
 - *Calibration and performance assessment of the TOF-Wall detector of the FOOT experiment* — NIM A, 2022  
 - *The fragmentation trigger of the FOOT experiment* — NIM A, 2022  
 
-> Full publication list on ResearchGate
-
 ---
 
-## Conferences (selected)
+## Conferences
 
 - ESTRO — Vienna, 2025  
 - European Congress of Medical Physics — Munich, 2024  
